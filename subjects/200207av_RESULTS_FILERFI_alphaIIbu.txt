@@ -1,0 +1,1 @@
+Session_Name_	Trial_Index_	Trial_Recycled_	TRIAL_TYPE	trial_variant	TRIAL_NUMBER	TRIAL_ITERATION_VAL	frame_tilt	rod_tilt	response	step_size	reversal	reversal_num	RT	probe_del	alpha_entrain_refreshes	rod_tilt_val
